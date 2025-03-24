@@ -1,0 +1,10 @@
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\bin\Debug\apCadastroAlunos.exe.config
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\bin\Debug\apCadastroAlunos.exe
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\bin\Debug\apCadastroAlunos.pdb
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\obj\Debug\apCadastroAlunos.csproj.AssemblyReference.cache
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\obj\Debug\apCadastroAlunos.FrmCadastro.resources
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\obj\Debug\apCadastroAlunos.Properties.Resources.resources
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\obj\Debug\apCadastroAlunos.csproj.GenerateResource.cache
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\obj\Debug\apCadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\obj\Debug\apCadastroAlunos.exe
+C:\Users\u22130\Documents\Estruturas de Dados\1 Semestre\Listas Ligadas\apCadastroAlunos\obj\Debug\apCadastroAlunos.pdb
